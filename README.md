@@ -1,1 +1,1 @@
-# breakout
+# Breakout Game in JavaScript
